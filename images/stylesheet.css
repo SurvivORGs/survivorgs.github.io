@@ -21,7 +21,7 @@ h1 {
 	font-weight: normal;
 }
 
-h2 {
+h2, h3 {
 	font-family: "League Gothic", sans-serif;
 	font-weight: normal;
 }
@@ -111,6 +111,12 @@ abbr {
 
 .productionbox {
 	min-width: 300px;
-	max-width: 384px;
 	flex-grow: 1;
+}
+
+.productionbox > img {
+	float: left;
+	border-radius: 50%;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
