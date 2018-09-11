@@ -108,6 +108,7 @@ abbr {
 	display: grid;
 	grid-gap: 20px;
 	margin-bottom: 20px;
+	grid-template-columns: max-content;
 }
 
 .productionbox {
