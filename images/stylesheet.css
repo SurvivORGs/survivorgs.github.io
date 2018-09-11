@@ -1,3 +1,5 @@
+@import url('https://rsms.me/inter/inter-ui.css');
+
 @font-face {
 	font-family: "Survivant";
 	src: url("/images/survivant.ttf");
@@ -13,8 +15,6 @@
 	src: url("/images/LeagueGothic-Italic.otf");
 	font-style: italic;
 }
-
-@import url('https://rsms.me/inter/inter-ui.css');
 
 h1 {
 	font-family: "Survivant", sans-serif;
