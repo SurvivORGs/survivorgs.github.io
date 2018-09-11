@@ -99,15 +99,7 @@ p > a {
 
 abbr {
 	text-decoration: none;
-}
-
-abbr:after {
-	content: '';
-	position: absolute;
-  	left: 0;
-  	display: inline-block;
-  	height: 1em;
-  	width: 100%;
-  	border-bottom: 1px dotted;
-  	margin-top: 3px;
+	border-bottom: 1px dotted;
+	display: inline-block;
+	line-height: 0.85;
 }
