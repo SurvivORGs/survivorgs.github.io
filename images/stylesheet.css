@@ -96,3 +96,8 @@ main {
 p > a {
 	font-weight: bolder;
 }
+
+abbr {
+	text-decoration: none;
+	border-bottom: 1px dotted black;
+}
