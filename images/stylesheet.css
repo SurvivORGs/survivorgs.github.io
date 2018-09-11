@@ -120,3 +120,7 @@ abbr {
 	margin-right: 10px;
 	margin-bottom: 10px;
 }
+
+.productionbox > h2 {
+	margin: 0;
+}
