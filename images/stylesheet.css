@@ -12,11 +12,12 @@ h1 {
 	font-family: "Survivant"
 }
 
-.title {
-	display: block;
-	line-height: 400px;
-	text-align: center;
+.titlewrap {
 	width: 100%;
 	height: 400px;
-	font-size: 100pt;
+}
+
+.title {
+	display: block;
+	margin: auto;
 }
