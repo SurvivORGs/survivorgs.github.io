@@ -60,7 +60,8 @@ h1 {
 	margin: 10px;
 	padding: 5px;
 	border-radius: 10px;
-	background-color: rgba(212,85,0,0.5);
+	background-color: rgba(128,51,0,0.5);
+	justify-content: center;
 }
 
 .topnav > a {
@@ -68,4 +69,5 @@ h1 {
 	font-family: "League Gothic";
 	font-size: 30px;
 	text-decoration: none;
+	margin: 0 20px;
 }
