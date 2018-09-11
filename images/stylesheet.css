@@ -90,7 +90,7 @@ a:hover {
 main {
 	padding: 20px;
 	margin: 20px auto;
-	max-width: 1000px;
+	max-width: 1152px;
 }
 
 p > a {
@@ -102,4 +102,14 @@ abbr {
 	border-bottom: 1px dotted;
 	display: inline-block;
 	line-height: 0.9;
+}
+
+.productionflex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.productionbox {
+	min-width: 300px;
+	flex-grow: 1;
 }
