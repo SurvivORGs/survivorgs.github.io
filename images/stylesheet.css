@@ -113,6 +113,7 @@ abbr {
 	width: 300px;
 	max-width: 344px;
 	flex-grow: 1;
+	flex-basis: 0;
 	margin-right: 20px;
 	margin-bottom: 20px;
 	padding: 10px;
@@ -129,14 +130,6 @@ abbr {
 .productionbox > h2 {
 	margin: 0;
 	margin-bottom: 6px;
-}
-
-.fakebox {
-	width: 300px;
-	max-width: 364px;
-	height: 0;
-	flex-grow: 1;
-	margin-right: 20px;
 }
 
 .totop {
