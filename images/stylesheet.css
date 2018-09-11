@@ -127,3 +127,11 @@ abbr {
 	margin: 0;
 	margin-bottom: 6px;
 }
+
+.fakebox {
+	width: 300px;
+	max-width: 364px;
+	height: 0;
+	flex-grow: 1;
+	margin-right: 20px;
+}
