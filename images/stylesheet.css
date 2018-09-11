@@ -1,4 +1,4 @@
 body {
 	margin: 0;
-	background: #ff9955 url("/images/header.svg") no-repeat;
+	background: #ff9955 url("/images/header.svg") repeat-x;
 }
