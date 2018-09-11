@@ -111,10 +111,13 @@ abbr {
 
 .productionbox {
 	width: 300px;
-	max-width: 364px;
+	max-width: 344px;
 	flex-grow: 1;
 	margin-right: 20px;
 	margin-bottom: 20px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: rgba(255, 255, 255, 0.8);
 }
 
 .productionbox > img {
@@ -130,7 +133,7 @@ abbr {
 
 .fakebox {
 	width: 300px;
-	max-width: 364px;
+	max-width: 344px;
 	height: 0;
 	flex-grow: 1;
 	margin-right: 20px;
