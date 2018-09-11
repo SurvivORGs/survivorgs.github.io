@@ -140,6 +140,7 @@ abbr {
 }
 
 .totop {
+	display: block;
 	font-weight: bold;
 	padding-left: 10px;
 	padding-right: 10px;
