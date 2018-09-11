@@ -44,5 +44,6 @@ h1 {
 }
 
 .center {
+	display: block;
 	text-align: center;
 }
