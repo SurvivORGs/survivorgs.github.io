@@ -37,14 +37,12 @@ h1 {
 
 .title {
 	font-size: 70px;
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin: 0;
 }
 
 .league {
 	font-family: "League Gothic";
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin: 0;
 }
 
 .center {
