@@ -111,13 +111,13 @@ abbr {
 	grid-template-columns: repeat(3, minmax(300px, 350px));
 }
 
-@media (max-width: 1056px), @media (max-device-width: 1056px) {
+@media (max-width: 1060px) {
 	.productionflex {
 		grid-template-columns: repeat(2, minmax(300px, 350px));
 	}
 }
 
-@media (max-width: 716px), @media (max-device-width: 716px) {
+@media (max-width: 720px) {
 	.productionflex {
 		grid-template-columns: minmax(300px, 350px);
 	}
