@@ -22,5 +22,6 @@ h1 {
 
 .title {
 	font-size: 70px;
-	outline: 5px #ff9955 solid;
+	-webkit-text-stroke: 5px #ff9955;
+	-moz-text-stroke: 5px #ff9955;
 }
