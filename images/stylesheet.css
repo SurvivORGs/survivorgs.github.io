@@ -110,7 +110,7 @@ abbr {
 }
 
 .productionbox {
-	width: 300px;
+	min-width: 300px;
 	max-width: 344px;
 	flex-grow: 1;
 	flex-basis: 0;
