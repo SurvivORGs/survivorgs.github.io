@@ -23,6 +23,7 @@ body {
 
 h1 {
 	font-family: "Survivant", sans-serif;
+	font-weight: normal;
 }
 
 .titlewrap {
@@ -32,6 +33,7 @@ h1 {
 	align-items: center;
 	justify-content: center;
 	text-shadow: 0px 0px 10px #ff9955;
+	flex-flow: column;
 }
 
 .title {
