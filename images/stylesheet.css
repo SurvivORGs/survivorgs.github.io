@@ -122,6 +122,16 @@ abbr {
 	.productionflex {
 		grid-template-columns: minmax(300px, 350px);
 	}
+	.title {
+		font-size: 50px;
+		margin: 0;
+	}
+
+	.league {
+		font-family: "League Gothic";
+		margin: 0;
+		font-size: 20px;
+	}
 }
 
 .productionbox {
