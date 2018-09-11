@@ -1,8 +1,3 @@
-body {
-	margin: 0;
-	background: #ff9955 url("/images/header.svg") repeat-x;
-}
-
 @font-face {
 	font-family: "Survivant";
 	src: url("/images/survivant.ttf");
@@ -26,13 +21,24 @@ h1 {
 	font-weight: normal;
 }
 
+h1 {
+	font-family: "League Gothic", sans-serif;
+	font-weight: normal;
+}
+
+body {
+	margin: 0;
+	background: #ff9955 url("/images/header.svg") repeat-x;
+	font-family: "Inter UI", sans-serif;
+}
+
 .titlewrap {
 	width: 100%;
 	height: 180px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	text-shadow: 0px 0px 10px #ff9955;
+	text-shadow: 0px 0px 15px #ff9955;
 }
 
 .spacer {
@@ -79,4 +85,14 @@ a {
 
 a:hover {
 	opacity: 0.6;
+}
+
+main {
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 1000px;
+}
+
+p > a {
+	font-weight: bolder;
 }
