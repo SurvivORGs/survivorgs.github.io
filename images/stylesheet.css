@@ -111,6 +111,7 @@ abbr {
 
 .productionbox {
 	width: 300px;
+	max-width: 364px;
 	flex-grow: 1;
 	margin-right: 20px;
 	margin-bottom: 40px;
