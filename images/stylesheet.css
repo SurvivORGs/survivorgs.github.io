@@ -27,7 +27,7 @@ h2, h3 {
 }
 
 h2 {
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 }
 
 body {
@@ -104,6 +104,11 @@ main {
 
 p > a {
 	font-weight: bolder;
+}
+
+p {
+	margin-block-start: 0.5em;
+	margin-block-end: 0.5em;
 }
 
 abbr {
