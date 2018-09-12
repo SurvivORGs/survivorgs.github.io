@@ -37,7 +37,9 @@ body {
 }
 
 .titlewrap {
+	width: fit-content;
 	margin: 0 auto;
+	padding: 0 20px;
 	height: 180px;
 	display: flex;
 	align-items: center;
