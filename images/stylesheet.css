@@ -17,12 +17,12 @@
 }
 
 h1 {
-	font-family: "Survivant", sans-serif;
+	font-family: "Survivant", "Inter UI", sans-serif;
 	font-weight: normal;
 }
 
 h2, h3 {
-	font-family: "League Gothic", sans-serif;
+	font-family: "League Gothic", "Inter UI", sans-serif;
 	font-weight: normal;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 .league {
-	font-family: "League Gothic";
+	font-family: "League Gothic", "Inter UI", sans-serif;
 	margin: 0;
 }
 
@@ -76,7 +76,7 @@ body {
 }
 
 .topnav > a {
-	font-family: "League Gothic";
+	font-family: "League Gothic", "Inter UI", sans-serif;
 	font-size: 30px;
 	margin: 0 20px;
 	text-align: center;
@@ -128,12 +128,9 @@ abbr {
 @media (max-width: 720px) {
 	.title {
 		font-size: 50px;
-		margin: 0;
 	}
 
 	.league {
-		font-family: "League Gothic";
-		margin: 0;
 		font-size: 25px;
 	}
 
