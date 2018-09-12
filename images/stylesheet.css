@@ -145,6 +145,10 @@ abbr {
 		margin: 0;
 		font-size: 20px;
 	}
+
+	.topnav > a {
+		font-size: 20px;
+	}
 }
 
 .productionbox {
