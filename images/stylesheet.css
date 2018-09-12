@@ -122,18 +122,18 @@ abbr {
 	display: grid;
 	grid-gap: 20px;
 	margin-bottom: 20px;
-	grid-template-columns: repeat(3, minmax(300px, 350px));
+	grid-template-columns: repeat(3, auto);
 }
 
 @media (max-width: 1060px) {
 	.productionflex {
-		grid-template-columns: repeat(2, minmax(300px, 350px));
+		grid-template-columns: repeat(2, auto);
 	}
 }
 
 @media (max-width: 720px) {
 	.productionflex {
-		grid-template-columns: minmax(300px, 350px);
+		grid-template-columns: auto;
 	}
 	.title {
 		font-size: 50px;
@@ -148,8 +148,6 @@ abbr {
 }
 
 .productionbox {
-	min-width: 300px;
-	max-width: 350px;
 	padding: 10px;
 	border-radius: 10px;
 	background-color: rgba(255, 255, 255, 0.6);
