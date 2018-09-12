@@ -78,6 +78,10 @@ body {
 	text-align: center;
 }
 
+.current {
+	text-shadow: 0px 0px 20px #d45500;
+}
+
 a {
 	color: inherit;
 	text-decoration: none;
